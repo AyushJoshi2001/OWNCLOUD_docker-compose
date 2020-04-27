@@ -21,7 +21,7 @@ By running the single command $(docker-compose up -d) your complete infrastructe
               - After that run:
                                 docker-compose up -d
               - wait for it to initialize completely.
-After completing above steps your OwnCloud infrastructer with mysql:5.7 database will be launch.
+After completing above steps your OwnCloud infrastructer with mysql:5.7 database will launch.
 
 # How to use:
   
