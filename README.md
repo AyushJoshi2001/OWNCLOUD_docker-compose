@@ -28,5 +28,5 @@ After completing above steps your OwnCloud infrastructer with mysql:5.7 database
  For stopping the containers go to terminal.
  Run the command:
  
-                -docker-compose stop
+                docker-compose stop
   
