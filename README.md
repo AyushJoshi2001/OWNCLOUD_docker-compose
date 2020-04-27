@@ -32,4 +32,5 @@ After completing above steps your OwnCloud infrastructer with mysql:5.7 database
  Run the command:
  
                 docker-compose stop
+ This command will stop your services.
   
